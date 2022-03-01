@@ -1,0 +1,27 @@
+.SoundCard {
+  color: azure;
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  background-image: linear-gradient(
+    rgba(0, 0, 0, 0.3), 
+    rgba(0, 0, 0, 0.7)
+  );
+  background-color: rgba(255,255,255,0.90);
+  border: 2px solid black ;
+  border-radius: 8px;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  overflow-wrap: anywhere;
+
+  cursor: pointer;
+}
+
+/* hack to get content inside inline-block to center vertically https://codepen.io/edge0703/pen/DzaEex */
+.SoundCard:before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  height: 100%;
+}
