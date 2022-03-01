@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/ElotesSoundBoard/static/css/main.073c9b0a.css",
-    "main.js": "/ElotesSoundBoard/static/js/main.4172a1ad.js",
+    "main.css": "/ElotesSoundBoard/static/css/main.81d84623.css",
+    "main.js": "/ElotesSoundBoard/static/js/main.1034c4a0.js",
+    "static/media/background.jpg": "/ElotesSoundBoard/static/media/background.5db7496e44ac0a6fb245.jpg",
     "static/media/anime_omae_1.m4a": "/ElotesSoundBoard/static/media/anime_omae_1.a6b133ecd75cec8b47d7.m4a",
     "static/media/anime_nani_1.m4a": "/ElotesSoundBoard/static/media/anime_nani_1.245106768e76324cbca8.m4a",
     "index.html": "/ElotesSoundBoard/index.html",
-    "main.073c9b0a.css.map": "/ElotesSoundBoard/static/css/main.073c9b0a.css.map",
-    "main.4172a1ad.js.map": "/ElotesSoundBoard/static/js/main.4172a1ad.js.map"
+    "main.81d84623.css.map": "/ElotesSoundBoard/static/css/main.81d84623.css.map",
+    "main.1034c4a0.js.map": "/ElotesSoundBoard/static/js/main.1034c4a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.4172a1ad.js"
+    "static/css/main.81d84623.css",
+    "static/js/main.1034c4a0.js"
   ]
 }
