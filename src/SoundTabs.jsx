@@ -18,11 +18,11 @@ const getDataBetweenLetters = (a, b) => {
 
 export const SoundTabs = () => {
   const tabNames = [
-    'A-K',
-    'L-O',
+    'A-J',
+    'K-O',
     'P-T',
-    'Q-V',
-    'W-Z'
+    'U-W',
+    'X-Y-Z'
   ];
   return (
     <Tabs>
@@ -32,12 +32,12 @@ export const SoundTabs = () => {
 
       <TabPanel>
         <div className='panelContent'>
-          {getDataBetweenLetters('a', 'k').map((item) => <SoundCard name={item.name} soundName={item.fileName} />)}
+          {getDataBetweenLetters('a', 'j').map((item) => <SoundCard name={item.name} soundName={item.fileName} />)}
         </div>
       </TabPanel>
       <TabPanel>
         <div className='panelContent'>
-          {getDataBetweenLetters('l', 'o').map((item) => <SoundCard name={item.name} soundName={item.fileName} />)}
+          {getDataBetweenLetters('k', 'o').map((item) => <SoundCard name={item.name} soundName={item.fileName} />)}
         </div>
       </TabPanel>
       <TabPanel>
@@ -47,12 +47,12 @@ export const SoundTabs = () => {
       </TabPanel>
       <TabPanel>
         <div className='panelContent'>
-          {getDataBetweenLetters('q', 'v').map((item) => <SoundCard name={item.name} soundName={item.fileName} />)}
+          {getDataBetweenLetters('u', 'w').map((item) => <SoundCard name={item.name} soundName={item.fileName} />)}
         </div>
       </TabPanel>
       <TabPanel>
         <div className='panelContent'>
-          {getDataBetweenLetters('w', 'z').map((item) => <SoundCard name={item.name} soundName={item.fileName} />)}
+          {getDataBetweenLetters('x', 'z').map((item) => <SoundCard name={item.name} soundName={item.fileName} />)}
         </div>
       </TabPanel>
     </Tabs>);
