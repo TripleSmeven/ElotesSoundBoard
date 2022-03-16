@@ -11,7 +11,12 @@
     color: azure;
 }
 
-/* will inherit call from default */
+/* will inherit all from default */
 .custom-tab-selected {
     background: grey;
+}
+
+.panelContent {
+    width: 900px;
+    display: inline-block;
 }
