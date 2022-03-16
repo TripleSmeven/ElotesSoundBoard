@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ElotesSoundBoard/static/css/main.9ab81a9c.css",
-    "main.js": "/ElotesSoundBoard/static/js/main.f26c7e74.js",
+    "main.css": "/ElotesSoundBoard/static/css/main.d517a9a0.css",
+    "main.js": "/ElotesSoundBoard/static/js/main.decf4082.js",
     "static/media/background.jpg": "/ElotesSoundBoard/static/media/background.5db7496e44ac0a6fb245.jpg",
     "static/media/Moscow_1.m4a": "/ElotesSoundBoard/static/media/Moscow_1.91b3dffdc146660a159b.m4a",
     "static/media/doosh_1.m4a": "/ElotesSoundBoard/static/media/doosh_1.3f00b700f71e21d6d967.m4a",
@@ -105,11 +105,11 @@
     "static/media/shmoney_1.m4a": "/ElotesSoundBoard/static/media/shmoney_1.91b6a8b81c4c4122e6db.m4a",
     "static/media/wew_2.m4a": "/ElotesSoundBoard/static/media/wew_2.7da08c3bf55dc1a58930.m4a",
     "index.html": "/ElotesSoundBoard/index.html",
-    "main.9ab81a9c.css.map": "/ElotesSoundBoard/static/css/main.9ab81a9c.css.map",
-    "main.f26c7e74.js.map": "/ElotesSoundBoard/static/js/main.f26c7e74.js.map"
+    "main.d517a9a0.css.map": "/ElotesSoundBoard/static/css/main.d517a9a0.css.map",
+    "main.decf4082.js.map": "/ElotesSoundBoard/static/js/main.decf4082.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ab81a9c.css",
-    "static/js/main.f26c7e74.js"
+    "static/css/main.d517a9a0.css",
+    "static/js/main.decf4082.js"
   ]
 }
