@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ElotesSoundBoard/static/css/main.d517a9a0.css",
-    "main.js": "/ElotesSoundBoard/static/js/main.decf4082.js",
+    "main.js": "/ElotesSoundBoard/static/js/main.0ddb2123.js",
     "static/media/background.jpg": "/ElotesSoundBoard/static/media/background.5db7496e44ac0a6fb245.jpg",
     "static/media/Moscow_1.m4a": "/ElotesSoundBoard/static/media/Moscow_1.91b3dffdc146660a159b.m4a",
     "static/media/doosh_1.m4a": "/ElotesSoundBoard/static/media/doosh_1.3f00b700f71e21d6d967.m4a",
@@ -38,6 +38,7 @@
     "static/media/anime_omae_1.m4a": "/ElotesSoundBoard/static/media/anime_omae_1.a6b133ecd75cec8b47d7.m4a",
     "static/media/rrokay_2.m4a": "/ElotesSoundBoard/static/media/rrokay_2.50599976176e460115a8.m4a",
     "static/media/waddle_2.m4a": "/ElotesSoundBoard/static/media/waddle_2.70d24e47bc0cdadaa55a.m4a",
+    "static/media/bruh_2.mp4": "/ElotesSoundBoard/static/media/bruh_2.31a42fc5744664a51a8d.mp4",
     "static/media/random_5.m4a": "/ElotesSoundBoard/static/media/random_5.a07058a77bc52fc2ff7b.m4a",
     "static/media/cornu_5.m4a": "/ElotesSoundBoard/static/media/cornu_5.e2daea66d0da396996d5.m4a",
     "static/media/wack_4.m4a": "/ElotesSoundBoard/static/media/wack_4.c67d3926f2e1312313eb.m4a",
@@ -104,12 +105,13 @@
     "static/media/nice_1.m4a": "/ElotesSoundBoard/static/media/nice_1.e8ddb287e01b8f9b86d2.m4a",
     "static/media/shmoney_1.m4a": "/ElotesSoundBoard/static/media/shmoney_1.91b6a8b81c4c4122e6db.m4a",
     "static/media/wew_2.m4a": "/ElotesSoundBoard/static/media/wew_2.7da08c3bf55dc1a58930.m4a",
+    "static/media/bruh_1.mp4": "/ElotesSoundBoard/static/media/bruh_1.16378e390802e0940749.mp4",
     "index.html": "/ElotesSoundBoard/index.html",
     "main.d517a9a0.css.map": "/ElotesSoundBoard/static/css/main.d517a9a0.css.map",
-    "main.decf4082.js.map": "/ElotesSoundBoard/static/js/main.decf4082.js.map"
+    "main.0ddb2123.js.map": "/ElotesSoundBoard/static/js/main.0ddb2123.js.map"
   },
   "entrypoints": [
     "static/css/main.d517a9a0.css",
-    "static/js/main.decf4082.js"
+    "static/js/main.0ddb2123.js"
   ]
 }
