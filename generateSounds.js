@@ -9,7 +9,7 @@ fs.readdir(path, (err, files) => {
   files.forEach(file => {
     sounds.push({
       fileName: file,
-      name: file.replaceAll('_', ' ').replace('.m4a', ''),
+      name: file.replaceAll('_', ' ').replace('.m4a', '').replace('.mp4', ''),
     });
   });
   fs.writeFile('./src/SoundList.json', JSON.stringify(sounds), (err) => console.log(err));
